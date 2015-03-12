@@ -1,3 +1,14 @@
+//========================================================================================================
+// FILENAME  : main.cpp
+// CREATED   : 13-03-2015 - 00:00
+// AUTHOR    : Bitious
+// DESCR     : This is a small program which will count the negative numbers in a randomly generated array
+//
+//--------------------------------------------------------------------------------------------------------
+//
+// NO REVISIONS
+//
+//========================================================================================================
 #include <iostream>
 #include <cstdlib>
 #include <time.h>

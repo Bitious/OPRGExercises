@@ -1,3 +1,14 @@
+//========================================================================================================
+// FILENAME  : main.cpp
+// CREATED   : 13-03-2015 - 00:00
+// AUTHOR    : Bitious
+// DESCR     : This is a small program which will use an optimized bubble sort to sort an array of randomly generated numbers
+//
+//--------------------------------------------------------------------------------------------------------
+//
+// NO REVISIONS
+//
+//========================================================================================================
 #include <iostream>
 #include <time.h>
 #include <cstdlib>
